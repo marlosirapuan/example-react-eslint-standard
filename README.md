@@ -5,7 +5,7 @@ How to configure VSCode to work with eslint, standardjs and babel-plugin-root-im
 ### Requisites
 ```
 yarn 1.16.0+
-node 10+
+node 10.13+
 create-react-app
 ```
 
